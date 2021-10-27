@@ -64,8 +64,8 @@ const RideOptionsCard = () => {
             }`}>
             <Image
               style={{
-                width: 100,
-                height: 100,
+                width: 1000,
+                height: 1000,
                 resizeMode: "contain",
               }}
               source={{ uri: image }}
