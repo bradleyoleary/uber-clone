@@ -93,7 +93,7 @@ const RideOptionsCard = () => {
           disabled={!selected}
           style={tw`bg-black p-3 m-3 ${!selected && "bg-gray-300"}`}>
           <Text style={tw`text-center text-white text-xl`}>
-            Choose {selected?.title} test
+            Choose {selected?.title}
           </Text>
         </TouchableOpacity>
       </View>
